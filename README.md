@@ -1,0 +1,1 @@
+test to duplicate pdf carousel not responsive
