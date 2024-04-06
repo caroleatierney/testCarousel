@@ -8,6 +8,6 @@ export default {
   ],
   theme: {
   },
-  base: "/test-Carousel/",
+  base: "/testCarousel/",
   plugins: [require("flowbite/plugin")],
 };

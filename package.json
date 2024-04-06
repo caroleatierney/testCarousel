@@ -1,12 +1,12 @@
 {
-  "homepage": "https://caroleatierney.github.io/Camryn-Portfolio/",
-  "name": "camryn-portfolio",
+  "homepage": "https://caroleatierney.github.io/testCarousel/",
+  "name": "testCarousel",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --outDir build --base=/Camryn-Portfolio/",
+    "build": "vite build --outDir build --base=/testCarousel/",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy": "npm run build",

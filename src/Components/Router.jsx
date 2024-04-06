@@ -5,7 +5,7 @@ import.meta.env.BASE_URL;
 
 export const router = createBrowserRouter([
   {
-    path: "/Camryn-Portfolio/portfolioEventProposal",
+    path: "/testCarousel/",
     element: <PortfolioEventProposal />,
   },
 ]);
