@@ -7,7 +7,7 @@ import Page3  from "../Images/Buonacore-Camryn-Bridal-Shower-Brunch-Event-Propos
 
 export default function PortfolioEventProposal() {
   return (
-    <div className="w-5/6 h-auto sm:h-64 xl:h-80 2xl:h-96 mx-auto">
+    <div className="h-56 sm:h-64 xl:h-80 2xl:h-96">
       <Carousel>
         <div className="flex h-full items-center justify-center">
           <img src={Page1} alt="Page 1" />
